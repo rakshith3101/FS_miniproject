@@ -9,32 +9,27 @@ window.title("Krishi")
 window.geometry('500x500')
 window.config(background=c1)
 window.resizable(width=True,height=True)
-#frame_up=Frame(window,width=500,height=50,bg=c2)
-#frame_up.grid(row=2,column=2,pady=1,padx=0)
 
-#frame_down=Frame(window,width=500,height=500,bg='#000000')
-#frame_down.grid(row=2,column=2,padx=0,pady=1)
-
+#main window
 frame=Frame(window,width=500,height=300,bg=c1)
 frame.pack()
 #inner frame title
-frame_label=Label(frame,text="KRISHI",height=1,font=('Verdan 20 bold'),fg='#000000',bg=c2)
+frame_label=Label(window,text="KRISHI",height=1,font=('Verdan 20 bold'),fg='#000000',bg=c2)
 frame_label.place(x=200,y=5)
 
-
-# type scheme selection
+#AGRICULTURE SCHEME
 scheme=Label(frame,text='SELECT SCHEME',height=1,font=('Verdan 12 '),fg='#000000')
 scheme.place(x=18,y=10)
 scheme.place(y=40)
-OPTIONS = [
+AGRICULTURE = [
 "LOANS",
 "RURAL_WOMEN_WELFARE",
 "CROPS AND FERTILIZERS",
 "BASIC NEEDS"
 ] 
 variable = StringVar()
-variable.set(OPTIONS[0]) # default value
-w = OptionMenu(frame, variable, *OPTIONS)
+variable.set(AGRICULTURE[0]) # default value
+w = OptionMenu(frame, variable, *AGRICULTURE)
 w.pack()
 w.place(x=20,y=10)
 w.place(y=63)
@@ -43,25 +38,89 @@ button.pack()
 button.place(x=20,y=10)
 button.place(y=87)
 
+#EDUCATION SCHEME
+scheme2=Label(frame,text='SELECT REGION',height=1,font=('Verdan 12 '),fg='#000000')
+scheme2.place(x=375,y=10)
+scheme2.place(y=40)
 
-#regional scheme
-scheme=Label(frame,text='SELECT REGION',height=1,font=('Verdan 12 '),fg='#000000')
-scheme.place(x=375,y=10)
-scheme.place(y=40)
-
-regions=[
-"STATE",
-"CENTRAL"
+education=[
+"SCHOLARSHIP",
+"FACILITIES",
+"OTHERS"
 ]
-variable1=StringVar()
-variable1.set(regions[0])
-r=OptionMenu(frame,variable1,*regions)#option menu for region selection
+variable1 = StringVar()
+variable1.set(education[0])
+r=OptionMenu(frame,variable1,*education)#option menu for region selection
 r.pack()
 r.place(x=380,y=10)
 r.place(y=63)
 
-button2=Button(frame,text='SELECT',command=example,width=5,height=1)#button for scheme
+button2=Button(frame,text='SELECT',command=click,width=5,height=1)#button for scheme
 button2.pack()
 button2.place(x=380,y=10)
 button2.place(y=87)
+
+#SMALL-SCALE INDUSTRY
+scheme=Label(frame,text='SELECT SCHEME',height=1,font=('Verdan 12 '),fg='#000000')
+scheme.place(x=18,y=10)
+scheme.place(y=40)
+SMALL_SCALE_INDUSTRY = [
+"ESTABLISHMENT",
+"MACHINERY",
+"MENTORSHIP",
+"INDUSTIAL LOAN",
+"MARKING AND SUPPLY CHAIN"
+] 
+variable3 = StringVar()
+variable3.set(SMALL_SCALE_INDUSTRY[0]) # default value
+s = OptionMenu(frame, variable3, *SMALL_SCALE_INDUSTRY)
+s.pack()
+s.place(x=20,y=10)
+s.place(y=100)
+button3 = Button(frame, text="SELECT", command=ok)
+button3.pack()
+button3.place(x=20,y=10)
+button3.place(y=110)
+
+#BANKING SCHEME
+scheme=Label(frame,text='SELECT SCHEME',height=1,font=('Verdan 12 '),fg='#000000')
+scheme.place(x=18,y=10)
+scheme.place(y=40)
+BANKING = [
+"BANKING LOANS",
+"STUDENT FACILITY",
+"FACILITIES FOR WOMEN",
+"BASIC FACILITIES"
+] 
+variable4 = StringVar()
+variable4.set(BANKING[0]) # default value
+b = OptionMenu(frame, variable4, *BANKING)
+b.pack()
+b.place(x=20,y=10)
+b.place(y=150)
+button4 = Button(frame, text="SELECT", command=ok)
+button4.pack()
+button4.place(x=20,y=10)
+button4.place(y=150)
+
+#WOMEN RELATED SCHEMES
+scheme=Label(frame,text='SELECT SCHEME',height=1,font=('Verdan 12 '),fg='#000000')
+scheme.place(x=18,y=10)
+scheme.place(y=40)
+FOR_WOMEN = [
+"EDUCATION",
+"BASIC FACILITY",
+"LOAN AND HOUSEHOLD",
+"OTHERS"
+] 
+variable5 = StringVar()
+variable5.set(FOR_WOMEN[0]) # default value
+f = OptionMenu(frame, variable5, *FOR_WOMEN)
+f.pack()
+f.place(x=20,y=10)
+f.place(y=63)
+button5 = Button(frame, text="SELECT", command=ok)
+button5.pack()
+button5.place(x=20,y=10)
+button5.place(y=87)
 window.mainloop()
