@@ -123,4 +123,44 @@ button5 = Button(frame, text="SELECT", command=ok)
 button5.pack()
 button5.place(x=20,y=10)
 button5.place(y=87)
+##search scheme
+
+def search_schemes():
+    keyword = entry.get()  # Get the keyword entered in the Entry widget
+    keyword = keyword.lower()  # Convert the keyword to lowercase for case-insensitive search
+    results = []
+
+    with open('government_schemes.txt', 'r') as file:
+        for line in file:
+            scheme, description = line.strip().split('|')
+            if keyword in scheme.lower() or keyword in description.lower():
+                results.append((scheme, description))
+
+    display_results(results)
+
+def display_results(results):
+    result_text.delete('1.0',END)  # Clear previous results
+
+    if results:
+        for scheme, description in results:
+            result_text.insert(END, f'Scheme: {scheme}\n')
+            result_text.insert(END, f'Description: {description}\n\n')
+    else:
+        result_text.insert(END, 'No matching schemes found.')
+def exam():
+    print("hello")
+
+label = ttk.Label(window, text='Enter a keyword to search:')
+label.pack()
+
+entry = ttk.Entry(window)
+entry.pack()
+
+search_button = ttk.Button(window, text='Search', command=search_schemes)
+search_button.pack()
+
+result_text =Text(window, height=10, width=50)
+result_text.pack()
+
+
 window.mainloop()

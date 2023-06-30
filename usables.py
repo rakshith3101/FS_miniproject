@@ -1,19 +1,17 @@
 from tkinter import *
 from tkinter import ttk
+
 def ok():
-
     pass
-    #print ("value is:" + variable.get())
 
-
-#button for region
 def example():
     file=open('example.txt','r')
     file_content=file.read()
     print(file_content)
     file.close()
 def click():
-    r=open("example.txt",'r')
+    file_path="for_women/education.txt"
+    r=open(file_path,'r')
     r_content=r.read()
     window2=Tk()
     window2.title("window two")
