@@ -1,5 +1,34 @@
-Mahila e-Haat|An online marketing platform for women entrepreneurs.
-National Rural Livelihoods Mission (NRLM)|A poverty alleviation program for rural women.
-Pradhan Mantri Matru Vandana Yojana (PMMVY)|A maternity benefit program for pregnant and lactating women.
-National Rural Employment Guarantee Act (NREGA)|A program providing rural employment guarantee to households.
-Beti Bachao Beti Padhao (BBBP) Scheme|An initiative to improve the welfare of the girl child.
+Mahila e-Haat|An online marketing platform for women entrepreneur|https://en.wikipedia.org/wiki/Beti_Bachao_Beti_Padhao.
+National Rural Livelihoods Mission (NRLM)|A poverty alleviation program for rural women|https://en.wikipedia.org/wiki/Beti_Bachao_Beti_Padhao.
+Pradhan Mantri Matru Vandana Yojana (PMMVY)|A maternity benefit program for pregnant and lactating women|https://en.wikipedia.org/wiki/Beti_Bachao_Beti_Padhao.
+National Rural Employment Guarantee Act (NREGA)|A program providing rural employment guarantee to households|https://en.wikipedia.org/wiki/Beti_Bachao_Beti_Padhao.
+Beti Bachao Beti Padhao (BBBP) Scheme|An initiative to improve the welfare of the girl child|https://en.wikipedia.org/wiki/Beti_Bachao_Beti_Padhao.
+Pradhan Mantri Vidya Lakshmi Karyakram (PMVLK)|PMVLK is a government portal that provides a single-window platform for students to access information and apply for various education loans and scholarships offered by different banks and agencies|https://www.vidyalakshmi.co.in/Students/.
+Pradhan Mantri Fasal Bima Yojana (PMFBY)|PMFBY is an insurance scheme for farmers that provides coverage against crop loss due to natural ,calamities ,pests or disease It aims to support farmers and ensure their financial stability|https://pmfby.gov.in/.
+Soil Health Card Scheme|This scheme aims to assess and provide farmers with customized soil health cards, containing recommendations for balanced nutrient application, improving soil fertility, and enhancing crop productivity|https://soilhealth.dac.gov.in/.
+Pradhan Mantri Jan Dhan Yojana (PMJDY)|PMJDY is a financial inclusion program that focuses on providing access to banking facilities and services, including savings accounts, insurance, and credit, to every citizen of India|https://www.pmjdy.gov.in/.Pradhan.
+Mantri Krishi Sinchai Yojana (PMKSY)|PMKSY aims to improve farm productivity and water resource management through the implementation of various water conservation and irrigation projects, leading to increased agricultural production|https://pmksy.gov.in/.
+Mid-Day Meal Scheme|This scheme provides cooked meals to school children, primarily in government and government-aided schools, to improve their nutritional status, enhance school attendance, and encourage education|https://mdm.nic.in/.
+Pradhan Mantri Awas Yojana (PMAY)|Housing for All|https://pmaymis.gov.in/.
+Swachh Bharat Abhiyan|Clean India Mission|https://swachhbharatmission.gov.in/.
+Pradhan Mantri Ujjwala Yojana|Free LPG connections for women|https://www.pmujjwalayojana.com/.
+National Health Mission (NHM)|National health Mission|https://nhm.gov.in/.
+Skill India Mission|skill India mission|https://www.skillindia.gov.in/.
+Pradhan Mantri Matru Vandana Yojana (PMMVY)|Maternity Benefit Scheme|https://pmmvy.gov.in/.
+Digital India Programme|Digital India|https://www.digitalindia.gov.in/.
+Pradhan Mantri Krishi Sampada Yojana|Food Processing Scheme|https://www.mofoodprocessing.gov.in/.
+Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA)|Safe Motherhood Campaign|https://pmsma.nhp.gov.in/.
+Deen Dayal Upadhyaya Antyodaya Yojana (DAY-NRLM)|National Rural Livelihoods Mission|https://nrlm.gov.in/.
+Pradhan Mantri Fasal Bima Yojana (PMFBY)|Crop Insurance Scheme|https://pmfby.gov.in/.
+Atal Pension Yojana (APY)| jana suraksha yojan|https://www.jansuraksha.gov.in/.
+Pradhan Mantri Kaushal Vikas Yojana (PMKVY)|Skill Development Scheme|https://pmkvyofficial.org/.
+Ayushman Bharat|Pradhan Mantri Jan Arogya Yojana (PM-JAY)|https://www.pmjay.gov.in/.
+Pradhan Mantri Kisan Sampada Yojana|Agro-Processing Scheme|https://www.kisansampada.in/.
+Stand-Up India Scheme|Entrepreneurship for SC/ST/Women|https://www.standupmitra.in/.
+National Social Assistance Programme (NSAP)|National Social Programme|https://nsap.nic.in/.
+National Rural Drinking Water Programme (NRDWP)|National Rural Drinking water program|https://jalshakti-ddws.gov.in/.
+Pradhan Mantri Garib Kalyan Yojana (PMGKY)|Welfare Scheme for Poor|https://jalshakti-ddws.gov.in/.
+Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP)|Affordable Medicines|https://janaushadhi.gov.in/.
+Pradhan Mantri Mahila Shakti Kendra (MSK)|Women Empowerment Centres|https://msk.gov.in/.
+National Mission for Sustainable Agriculture (NMSA)|National Mission for Sustainable agricultural|https://nmsa.dac.gov.in/.
+Pradhan Mantri Gram Sadak Yojana (PMGSY)|Rural Road Connectivity|https://pmgsy.nic.in/.

@@ -1,0 +1,24 @@
+Pradhan Mantri Kisan Samman Nidhi (PM-KISAN):
+
+Description: PM-KISAN provides income support to farmers by providing direct cash transfers of Rs. 6,000 per year in three equal installments to small and marginal farmers.
+Website: pmkisan.gov.in
+
+Pradhan Mantri Gram Sadak Yojana (PMGSY):
+
+Description: PMGSY aims to provide all-weather road connectivity to rural areas, improving accessibility and connectivity to markets, health services, and educational institutions.
+Website: pmgsy.nic.in
+
+Pradhan Mantri Awas Yojana (PMAY):
+
+Description: PMAY aims to provide affordable housing to urban and rural poor, offering financial assistance, subsidies, and support for the construction, renovation, or purchase of houses.
+Website: pmaymis.gov.in
+
+Deen Dayal Upadhyaya Gram Jyoti Yojana (DDUGJY):
+
+Description: DDUGJY focuses on rural electrification by providing access to electricity to all rural households, agricultural pump sets, and other essential public facilities.
+Website: ddugjy.gov.in
+
+Pradhan Mantri Jan Dhan Yojana (PMJDY):
+
+Description: PMJDY aims to ensure financial inclusion by providing banking services and access to financial products, including bank accounts, insurance, and pension schemes, to every household.
+Website: pmjdy.gov.in

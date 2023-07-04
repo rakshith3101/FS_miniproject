@@ -1,0 +1,24 @@
+Rashtriya Uchchatar Shiksha Abhiyan (RUSA):
+
+Description: A scheme focusing on the development of higher education institutions, providing financial support to improve infrastructure, enhance quality, and increase access to higher education.
+Website: rusa.gov.in
+
+Samagra Shiksha Abhiyan:
+
+Description: An integrated scheme for school education aiming to provide quality education and support holistic development of students, emphasizing inclusive education and infrastructure development.
+Website: samagra.mhrd.gov.in
+
+Pradhan Mantri Swasthya Suraksha Yojana (PMSSY):
+
+Description: A program focused on the development of health infrastructure, including setting up AIIMS-like institutions, upgrading medical colleges, and improving healthcare facilities in underserved areas.
+Website: pmssy-mohfw.nic.in
+
+Atal Tinkering Labs:
+
+Description: A scheme under the Atal Innovation Mission that promotes innovation and entrepreneurship among students by establishing tinkering labs in schools, providing hands-on learning opportunities.
+Website: atalinnovationmission.com/atal-tinkering-labs
+
+Digital India:
+
+Description: An initiative that aims to transform India into a digitally empowered society, focusing on improving digital infrastructure, digital literacy, and promoting digital governance and services.
+Website: digitalindia.gov.in

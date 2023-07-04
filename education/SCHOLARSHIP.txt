@@ -1,0 +1,24 @@
+National Scholarship Portal:
+
+Description: A portal that hosts various scholarships offered by the Indian government, providing a centralized platform for students to apply, track, and manage their scholarship applications.
+Website: scholarships.gov.in
+
+Maulana Azad National Scholarship:
+
+Description: A scholarship scheme for minority students pursuing professional courses at the undergraduate and postgraduate levels, offering financial assistance to support their education.
+Website: maef.nic.in
+
+Post Matric Scholarship for OBC Students:
+
+Description: A scholarship program aimed at providing financial support to students from Other Backward Classes (OBC) pursuing post-matriculation studies, helping them continue their education.
+Website: scholarships.gov.in
+
+Central Sector Scheme of Scholarship for College and University Students:
+
+Description: A scholarship scheme for meritorious students from economically weaker sections, providing financial assistance to pursue higher education in recognized institutions.
+Website: scholarships.gov.in
+
+Prime Minister's Scholarship Scheme for Central Armed Police Forces and Assam Rifles:
+
+Description: A scholarship scheme for the wards and widows of Central Armed Police Forces (CAPFs) and Assam Rifles personnel, providing financial assistance for their higher education.
+Website: desw.gov.in
